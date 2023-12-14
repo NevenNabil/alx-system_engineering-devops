@@ -1,4 +1,4 @@
-#!/user/bin/env bash
+#!/bin/bash
 eval $("ssh-agent")
 
 # Path to IdentityFile
